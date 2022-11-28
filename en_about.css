@@ -1,0 +1,39 @@
+* {
+    background-color: #242424;
+    box-sizing: border-box;
+    color: inherit;
+    font-family: 'Montserrat', sans-serif;
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+span.emph_green {
+    color: #5cee79;
+}
+
+h1.headline{
+    border-left: 10px solid #3090cc; /*testing*/
+    color: #ffffff;
+    padding-left: 16px;
+}
+
+div#summary {
+    padding-top: 60px;
+}
+    div#summary div#logo {
+        background-image: url(93321645_320x2.png);
+        background-repeat: no-repeat;
+        background-size: 200px;
+        background-position: center;
+        border: 8px solid #ffffff/*#3090cc*/;
+        height: 200px;
+        width:200px
+    }
+
+p.content {
+    line-height: 27px;
+    padding-top: 30px;
+    color: #ffffff
+}
